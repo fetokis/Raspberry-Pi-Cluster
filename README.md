@@ -9,7 +9,7 @@ the hardware platform needed to become a cluster and the environment of MPICH an
 
 Link is https://drive.google.com/drive/folders/1a0HqJeqcW6jlj8KsXkpE2v8i2azGMZlh?usp=sharing
 
-Raspberry pi 1 image file is the master and node
-Raspberry pi 2 image file is node.
-Raspberry pi 3 image file is node.
-Raspberry pi 4 image file is node.
+ Raspberry pi 1 image file is the master and node.
+ Raspberry pi 2 image file is node.
+ Raspberry pi 3 image file is node.
+ Raspberry pi 4 image file is node.
